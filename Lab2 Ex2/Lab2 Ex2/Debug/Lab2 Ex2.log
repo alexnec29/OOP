@@ -1,0 +1,20 @@
+﻿  Lab2 Ex2.cpp
+  student.cpp
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(5,34): error C2761: 'void Student::SetName(char *)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(6,1): error C2447: '{': missing function header (old-style formal list?)
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(11,25): error C2761: 'char *Student::GetName(void)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(13,33): error C2761: 'float Student::GetEnglishGrade(void)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(14,1): error C2447: '{': missing function header (old-style formal list?)
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(17,33): error C2761: 'float Student::GetHistoryGrade(void)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(18,1): error C2447: '{': missing function header (old-style formal list?)
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(21,30): error C2761: 'float Student::GetMathGrade(void)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(22,1): error C2447: '{': missing function header (old-style formal list?)
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(26,46): error C2761: 'bool Student::SetEnglishGrade(float)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(27,1): error C2447: '{': missing function header (old-style formal list?)
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(33,46): error C2761: 'bool Student::SetHistoryGrade(float)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(34,1): error C2447: '{': missing function header (old-style formal list?)
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(40,43): error C2761: 'bool Student::SetMathGrade(float)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(41,1): error C2447: '{': missing function header (old-style formal list?)
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(48,30): error C2761: 'float Student::GetGradeMean(void)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab2 Ex2\Lab2 Ex2\student.cpp(49,1): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
