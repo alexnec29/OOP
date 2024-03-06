@@ -1,0 +1,4 @@
+﻿  masina.cpp
+masina.obj : error LNK2005: "public: void __cdecl Masina::bisnitar(void)" (?bisnitar@Masina@@QEAAXXZ) already defined in Lab2 exMasini.obj
+masina.obj : error LNK2005: "public: void __cdecl Masina::cursa(int)" (?cursa@Masina@@QEAAXH@Z) already defined in Lab2 exMasini.obj
+D:\work\Programe facute\OOP\Lab2 exMasini\x64\Debug\Lab2 exMasini.exe : fatal error LNK1169: one or more multiply defined symbols found
