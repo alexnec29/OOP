@@ -9,6 +9,6 @@ void Masina::bisnitar()
 void Masina::cursa(int distanta)
 {
 	this->kilometraj = this->kilometraj - distanta;
-	this->litri = this->litri - this->consum * distanta;
+	this->litri = this->litri - this->consum * distanta/100;
 	return;
 }
