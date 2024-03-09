@@ -21,7 +21,7 @@ void Masina::cursa(int distanta)
 }
 void Masina::setConsum(int a)
 {
-	this->consum = a;
+	if(a>=0) this->consum = a;
 }
 void Masina::setFirma(char firmaden[])
 {
@@ -29,11 +29,11 @@ void Masina::setFirma(char firmaden[])
 }
 void Masina::setKilometraj(int a)
 {
-	this->kilometraj = a;
+	if(a>=0) this->kilometraj = a;
 }
 void Masina::setLitri(int a)
 {
-	this->litri = a;
+	if(a>=0) this->litri = a;
 }
 void Masina::getFirma()
 {
