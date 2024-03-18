@@ -1,0 +1,16 @@
+﻿  canvas.cpp
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(6,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(6,6): error C2761: 'void Canvas::DrawCircle(int,int,int,char)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(7,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(7,6): error C2761: 'void Canvas::FillCircle(int,int,int,char)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(8,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(8,6): error C2761: 'void Canvas::DrawRect(int,int,int,int,char)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(9,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(9,6): error C2761: 'void Canvas::FillRect(int,int,int,int,char)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(10,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(10,6): error C2761: 'void Canvas::SetPoint(int,int,char)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(11,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(11,6): error C2761: 'void Canvas::DrawLine(int,int,int,int,char)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(12,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(12,6): error C2761: 'void Canvas::Print(void)': redeclaration of member is not allowed
+D:\work\Programe facute\OOP\Lab3Ex2\Lab3Ex2\canvas.cpp(13,1): error C1004: unexpected end-of-file found

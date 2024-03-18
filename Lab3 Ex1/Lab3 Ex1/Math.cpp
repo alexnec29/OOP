@@ -51,13 +51,34 @@ int Math::Add(int count, ...) // sums up a list of integers
 }
 char* Math::Add(const char* str1, const char* str2)
 {
-	size_t len1 = strlen(str1);
-	size_t len2 = strlen(str2);
-	size_t resultLen = len1 + len2 + 1; // +1 for the null terminator
+	int a = 0, b = 0, p = 1;
+	for (int i = strlen(str1)-1; i >=0 ; i--)
+	{
+		a = a + p * ((int)str1[i]-48);
+		p = p * 10;
+	}
+	p = 1;
+	for (int i = strlen(str2) - 1; i >= 0; i--)
+	{
+		b = b + p * ((int)str2[i]-48);
+		p = p * 10;
+	}
+	int sum = a + b;
 
-	char* result = new char[resultLen];
-	strcpy(result, str1);
-	strcat(result, str2);
+	int numDigits = 1;
+	int tempSum = sum;
+	while (tempSum /= 10) {
+		numDigits++;
+	}
+
+	char* result = new char[numDigits + 1];
+
+	for (int i = numDigits - 1; i >= 0; i--) {
+		result[i] = '0' + sum % 10;
+		sum /= 10;
+	}
+
+	result[numDigits] = '\0';
 
 	return result;
 }

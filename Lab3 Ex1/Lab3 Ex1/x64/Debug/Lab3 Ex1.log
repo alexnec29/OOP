@@ -1,2 +1,8 @@
-﻿  Lab3 Ex1.cpp
+﻿  Math.cpp
+D:\work\Programe facute\OOP\Lab3 Ex1\Lab3 Ex1\Math.cpp(17,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\work\Programe facute\OOP\Lab3 Ex1\Lab3 Ex1\Math.cpp(21,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\work\Programe facute\OOP\Lab3 Ex1\Lab3 Ex1\Math.cpp(33,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\work\Programe facute\OOP\Lab3 Ex1\Lab3 Ex1\Math.cpp(37,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\work\Programe facute\OOP\Lab3 Ex1\Lab3 Ex1\Math.cpp(55,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\work\Programe facute\OOP\Lab3 Ex1\Lab3 Ex1\Math.cpp(61,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Lab3 Ex1.vcxproj -> D:\work\Programe facute\OOP\Lab3 Ex1\x64\Debug\Lab3 Ex1.exe
