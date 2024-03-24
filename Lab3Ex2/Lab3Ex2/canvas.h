@@ -4,7 +4,7 @@ class Canvas
 public:
     Canvas(int width, int height)
     {
-       
+        char** matrix = new matrix[width + 1][height + 1];
     }
     void DrawCircle(int x, int y, int ray, char ch);
     void FillCircle(int x, int y, int ray, char ch);

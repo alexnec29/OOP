@@ -1,16 +1,21 @@
+#include <cstdlib>
+#include <iostream>
+#include <ctime>
 class Sort
 {
     // add data members
     int* elemente;
-    int nrEemente;
+    int nrElemente;
+    // functii pentru quicksort(partitionarea si preluarea capetelor)
+    void quickSortHelper(int left, int right, bool ascendent);
+    int partition(int left, int right, bool ascendent);
 public:
     // add constuctors
-    Sort(int nrElemente, int min, int max)
-    {
-        elemente = new int[nrElemente];
-        for (int i = 0; i < nrElemente; i++)
-        {
-            elemente[i] = (((int)&elemente) % max) + min;
+    Sort(int numElements, int min, int max) : nrElemente(numElements) {
+        srand(time(nullptr));
+        elemente = new int[numElements];
+        for (int i = 0; i < numElements; i++) {
+            elemente[i] = rand() % (max - min + 1) + min;
         }
     }
     void InsertSort(bool ascendent = false);
