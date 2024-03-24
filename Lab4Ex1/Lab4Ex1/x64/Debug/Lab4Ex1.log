@@ -1,20 +1,5 @@
-﻿  Lab4Ex1.cpp
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.h(15,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  (compiling source file 'Lab4Ex1.cpp')
-  
-  sort.cpp
+﻿  sort.cpp
 D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.h(15,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   (compiling source file 'sort.cpp')
   
-  Generating Code...
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(21,17): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(25,27): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(25,67): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(27,19): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(28,13): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(28,27): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(29,13): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(32,11): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(33,5): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(33,23): error C2065: 'elements': undeclared identifier
-D:\work\Programe facute\OOP\Lab4Ex1\Lab4Ex1\sort.cpp(34,5): error C2065: 'elements': undeclared identifier
+  Lab4Ex1.vcxproj -> D:\work\Programe facute\OOP\Lab4Ex1\x64\Debug\Lab4Ex1.exe

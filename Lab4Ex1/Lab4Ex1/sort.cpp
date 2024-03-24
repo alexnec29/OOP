@@ -1,9 +1,17 @@
 #include "sort.h"
 #include <iostream>
 using namespace std;
-void Sort::InsertSort(bool ascendent)
-{
-
+void Sort::InsertSort(bool ascendent) {
+    int k, j;
+    for (int i = 1; i < nrElemente; i++) {
+        k = elemente[i];
+        j = i - 1;
+        while ((ascendent && j >= 0 && elemente[j] > k) || (!ascendent && j >= 0 && elemente[j] < k)) {
+            elemente[j + 1] = elemente[j];
+            j = j - 1;
+        }
+        elemente[j + 1] = k;
+    }
 }
 void Sort::QuickSort(bool ascendent) {
     quickSortHelper(0, nrElemente - 1, ascendent);
@@ -18,20 +26,20 @@ void Sort::quickSortHelper(int left, int right, bool ascendent) {
 }
 
 int Sort::partition(int left, int right, bool ascendent) {
-    int pivot = elements[right];
+    int pivot = elemente[right];
     int i = left - 1;
     int aux;
     for (int j = left; j <= right - 1; j++) {
-        if ((ascendent && elements[j] <= pivot) || (!ascendent && elements[j] >= pivot)) {
+        if ((ascendent && elemente[j] <= pivot) || (!ascendent && elemente[j] >= pivot)) {
             i++;
-            aux = elements[i];
-            elements[i] = elements[j];
-            elements[j] = aux;
+            aux = elemente[i];
+            elemente[i] = elemente[j];
+            elemente[j] = aux;
         }
     }
-    aux = elements[i + 1];
-    elements[i + 1] = elements[right];
-    elements[right] = aux;
+    aux = elemente[i + 1];
+    elemente[i + 1] = elemente[right];
+    elemente[right] = aux;
     return i + 1;
 }
 void Sort::BubbleSort(bool ascendent)
