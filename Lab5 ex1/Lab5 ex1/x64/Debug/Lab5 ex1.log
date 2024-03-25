@@ -1,0 +1,53 @@
+﻿  Lab5 ex1.cpp
+D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(24,40): error C2676: binary '[': 'Number' does not define this operator or a conversion to a type acceptable to the predefined operator
+D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(24,16): warning C4473: 'printf' : not enough arguments passed for format string
+  D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(24,16):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(24,16):
+  the missing variadic argument 2 is required by format string '%c'
+  
+D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(34,15): error C2440: 'initializing': cannot convert from 'int' to 'Number'
+  D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(34,15):
+  'Number::Number': no overloaded function could convert all the argument types
+  	D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\number.h(107,1):
+  	could be 'Number::Number(const Number &)'
+  		D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(34,15):
+  		'Number::Number(const Number &)': cannot convert argument 1 from 'int' to 'const Number &'
+  			D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(34,17):
+  			Reason: cannot convert from 'int' to 'const Number'
+  			D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(34,17):
+  			Conversion requires a second user-defined-conversion operator or constructor
+  	D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(34,15):
+  	while trying to match the argument list '(int)'
+  
+D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(36,8): error C2676: binary '+=': 'Number' does not define this operator or a conversion to a type acceptable to the predefined operator
+D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,5): error C2679: binary '=': no operator found which takes a right-hand operand of type 'const char [6]' (or there is no acceptable conversion)
+  D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\number.h(107,1):
+  could be 'Number &Number::operator =(const Number &)'
+  	D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,5):
+  	'Number &Number::operator =(const Number &)': cannot convert argument 2 from 'const char [6]' to 'const Number &'
+  		D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,10):
+  		Reason: cannot convert from 'const char [6]' to 'const Number'
+  		D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,10):
+  		'Number::Number': no overloaded function could convert all the argument types
+  			D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\number.h(107,1):
+  			could be 'Number::Number(const Number &)'
+  				D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,10):
+  				'Number::Number(const Number &)': cannot convert argument 1 from 'const char [6]' to 'const Number &'
+  					D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,10):
+  					Reason: cannot convert from 'const char [6]' to 'const Number'
+  					D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,10):
+  					Conversion requires a second user-defined-conversion operator or constructor
+  			D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,10):
+  			while trying to match the argument list '(const char [6])'
+  D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\number.h(93,9):
+  or       'Number Number::operator =(int)'
+  	D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,5):
+  	'Number Number::operator =(int)': cannot convert argument 2 from 'const char [6]' to 'int'
+  		D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,10):
+  		There is no context in which this conversion is possible
+  D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(39,5):
+  while trying to match the argument list '(Number, const char [6])'
+  
+D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(41,5): error C2675: unary '--': 'Number' does not define this operator or a conversion to a type acceptable to the predefined operator
+D:\work\Programe facute\OOP\Lab5 ex1\Lab5 ex1\Lab5 ex1.cpp(43,7): error C2676: binary '--': 'Number' does not define this operator or a conversion to a type acceptable to the predefined operator
