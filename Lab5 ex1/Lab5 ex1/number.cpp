@@ -1,25 +1,37 @@
 #include <iostream>
 #include "number.h"
 using namespace std;
-void Number::SwitchBase(int newBase)
-{
-	if (newBase == 10)
-	{
-		int newnumber = 0,p=1;
-		int aux = this->base10;
-		while (aux != 0)
-		{
-			newnumber = newnumber + (aux % 10) * p;
-			p = p * base;
-			aux = aux / 10;
-		}
-		this->base10 = newnumber;
+void Number::SwitchBase(int newBase) {
+    if (newBase < 2 || newBase > 16) {
+        std::cout << "Invalid base. Base should be between 2 and 16." << std::endl;
+        return;
+    }
 
-		//bx->b10    suma-i=0,n  nr[i]*x^i
-		//ex:22(b5)->(b10)
-		//		2*5^0+2*5^1
-		//       =12
-	}
+    int tempBase10 = base10;
+
+    int catul = tempBase10;
+    int i = 0;
+    char* newChar = new char[64]; // Assuming the new base doesn't exceed 64 digits
+    while (catul != 0) {
+        int remainder = catul % newBase;
+        newChar[i++] = (remainder < 10) ? (char)(remainder + '0') : (char)(remainder - 10 + 'A');
+        catul /= newBase;
+    }
+    int newSize = i; // Size of the new character array
+    delete[] as_char; // Delete old character array
+
+    as_char = new char[newSize + 1]; // Allocate memory for the new character array
+    count = newSize; // Update the digit count
+
+    // Copy the characters from the temporary array to the member variable
+    for (int j = 0; j < newSize; j++) {
+        as_char[j] = newChar[newSize - 1 - j];
+    }
+    as_char[newSize] = '\0'; // Null-terminate the string
+
+    delete[] newChar; // Delete the temporary array
+
+    base = newBase; // Update the base
 }
 
 void Number::Print()
