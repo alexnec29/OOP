@@ -1,0 +1,3 @@
+﻿  Lab6 Powerpuff.cpp
+D:\work\Programe facute\OOP\Lab6 Powerpuff\Lab6 Powerpuff\Lab6 Powerpuff.cpp(246,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6 Powerpuff.vcxproj -> D:\work\Programe facute\OOP\Lab6 Powerpuff\x64\Debug\Lab6 Powerpuff.exe

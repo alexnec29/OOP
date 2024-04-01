@@ -1,0 +1,21 @@
+class Parent{
+	int k;
+	int j;
+	void print()
+	{
+		printf("Salut");
+	}
+}
+
+class Child : Parent
+{
+	private:
+		void myPrint()
+		{
+			printf("Hello");
+		}
+}
+
+
+Ce este un enum?
+Enumerare

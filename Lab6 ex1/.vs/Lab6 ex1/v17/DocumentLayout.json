@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\Programe facute\\OOP\\Lab6 ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5919F348-4BBD-4107-9E9F-423E979D4443}|Lab6 ex1\\Lab6 ex1.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 ex1\\Lab6 ex1\\Lab6 ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5919F348-4BBD-4107-9E9F-423E979D4443}|Lab6 ex1\\Lab6 ex1.vcxproj|solutionrelative:Lab6 ex1\\Lab6 ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5919F348-4BBD-4107-9E9F-423E979D4443}|Lab6 ex1\\Lab6 ex1.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 ex1\\Lab6 ex1\\report.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5919F348-4BBD-4107-9E9F-423E979D4443}|Lab6 ex1\\Lab6 ex1.vcxproj|solutionrelative:Lab6 ex1\\report.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab6 ex1.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 ex1\\Lab6 ex1\\Lab6 ex1.cpp",
+              "RelativeDocumentMoniker": "Lab6 ex1\\Lab6 ex1.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 ex1\\Lab6 ex1\\Lab6 ex1.cpp",
+              "RelativeToolTip": "Lab6 ex1\\Lab6 ex1.cpp",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAuwPoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T15:04:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "report.txt",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 ex1\\Lab6 ex1\\report.txt",
+              "RelativeDocumentMoniker": "Lab6 ex1\\report.txt",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 ex1\\Lab6 ex1\\report.txt",
+              "RelativeToolTip": "Lab6 ex1\\report.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-01T15:08:59.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

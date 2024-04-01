@@ -1,0 +1,112 @@
+﻿  Lab6 ex1.cpp
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(38,14): error C2555: 'BMW::GetModel': overriding virtual function return type differs and is not covariant from 'Car::GetModel'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(24,16):
+  see declaration of 'Car::GetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(34,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(35,35): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(58,14): error C2555: 'Fiat::GetModel': overriding virtual function return type differs and is not covariant from 'Car::GetModel'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(24,16):
+  see declaration of 'Car::GetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(54,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(55,35): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(78,14): error C2555: 'RangeRover::GetModel': overriding virtual function return type differs and is not covariant from 'Car::GetModel'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(24,16):
+  see declaration of 'Car::GetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(75,35): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(98,14): error C2555: 'Seat::GetModel': overriding virtual function return type differs and is not covariant from 'Car::GetModel'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(24,16):
+  see declaration of 'Car::GetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(93,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(94,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(95,35): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(96,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(118,14): error C2555: 'Volvo::GetModel': overriding virtual function return type differs and is not covariant from 'Car::GetModel'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(24,16):
+  see declaration of 'Car::GetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(114,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(179,12): warning C4305: '=': truncation from 'unsigned int' to 'float'
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(216,15): error C2259: 'Volvo': cannot instantiate abstract class
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(108,7):
+  see declaration of 'Volvo'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(216,15):
+  due to following members:
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(216,15):
+  'void *Car::SetModel(void)': is abstract
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(25,16):
+  see declaration of 'Car::SetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(216,20): error C2248: 'Volvo::Volvo': cannot access private member declared in class 'Volvo'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(109,2):
+  see declaration of 'Volvo::Volvo'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(108,7):
+  see declaration of 'Volvo'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(217,15): error C2259: 'BMW': cannot instantiate abstract class
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(28,7):
+  see declaration of 'BMW'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(217,15):
+  due to following members:
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(217,15):
+  'void *Car::SetModel(void)': is abstract
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(25,16):
+  see declaration of 'Car::SetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(217,18): error C2248: 'BMW::BMW': cannot access private member declared in class 'BMW'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(29,2):
+  see declaration of 'BMW::BMW'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(28,7):
+  see declaration of 'BMW'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(218,15): error C2259: 'Seat': cannot instantiate abstract class
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(88,7):
+  see declaration of 'Seat'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(218,15):
+  due to following members:
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(218,15):
+  'void *Car::SetModel(void)': is abstract
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(25,16):
+  see declaration of 'Car::SetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(218,19): error C2248: 'Seat::Seat': cannot access private member declared in class 'Seat'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(89,2):
+  see declaration of 'Seat::Seat'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(88,7):
+  see declaration of 'Seat'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(219,15): error C2259: 'Fiat': cannot instantiate abstract class
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(48,7):
+  see declaration of 'Fiat'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(219,15):
+  due to following members:
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(219,15):
+  'void *Car::SetModel(void)': is abstract
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(25,16):
+  see declaration of 'Car::SetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(219,19): error C2248: 'Fiat::Fiat': cannot access private member declared in class 'Fiat'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(49,2):
+  see declaration of 'Fiat::Fiat'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(48,7):
+  see declaration of 'Fiat'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(220,15): error C2259: 'RangeRover': cannot instantiate abstract class
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(68,7):
+  see declaration of 'RangeRover'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(220,15):
+  due to following members:
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(220,15):
+  'void *Car::SetModel(void)': is abstract
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(25,16):
+  see declaration of 'Car::SetModel'
+  
+D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(220,25): error C2248: 'RangeRover::RangeRover': cannot access private member declared in class 'RangeRover'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(69,2):
+  see declaration of 'RangeRover::RangeRover'
+  D:\work\Programe facute\OOP\Lab6 ex1\Lab6 ex1\Lab6 ex1.cpp(68,7):
+  see declaration of 'RangeRover'
+  
