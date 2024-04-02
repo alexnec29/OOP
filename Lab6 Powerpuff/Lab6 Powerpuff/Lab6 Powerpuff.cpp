@@ -55,8 +55,12 @@ int main()
 		professor.addIngredient(EverythingNice);
 		professor.createPowerpuff();
 	}
-	MojoJojo mojojojo(100000, 100000);
-	professor.battle(mojojojo);
+	MojoJojo mojojojo1(100000, 100000);
+	professor.battle(mojojojo1);
+	professor.verifyPowerpuffAlive();
+	MojoJojo mojojojo2(100000, 100000);
+	professor.battle(mojojojo2);
+	professor.verifyPowerpuffAlive();
 	return 0;
 }
 

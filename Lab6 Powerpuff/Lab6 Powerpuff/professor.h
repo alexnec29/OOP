@@ -17,17 +17,11 @@ private:
     int powerpuffNumber;
     PowerPuff** powerpuff;
 public:
-    Professor()
-    {
-        ingredient[Sugar] = 0;
-        ingredient[Spice] = 0;
-        ingredient[EverythingNice] = 0;
-        powerpuff = new PowerPuff * [100];
-        powerpuffNumber = 0;
-    }
+    Professor();
     void addIngredient(Ingredient ing);
     void createPowerpuff();
     void battle(MojoJojo& mojojojo);
+    void verifyPowerpuffAlive();
 };
 
 #endif

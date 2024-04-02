@@ -7,6 +7,14 @@
 #include <ctime>
 using namespace std;
 
+Professor::Professor()
+{
+	this->ingredient[Sugar] = 0;
+	this->ingredient[Spice] = 0;
+	this->ingredient[EverythingNice] = 0;
+	this->powerpuff = new PowerPuff * [100];
+	this->powerpuffNumber = 0;
+}
 void Professor::addIngredient(Ingredient ing)
 {
 	ingredient[ing]++;
@@ -84,5 +92,26 @@ void Professor::battle(MojoJojo& mojojojo) {
 	if (!alive)
 	{
 		cout << "Powerpuff Girls are dead!" << endl << endl << endl;
+	}
+}
+
+void Professor::verifyPowerpuffAlive()
+{
+	int counter = 0;
+	for (int i = 0; i < this->powerpuffNumber; i++)
+	{
+		if (powerpuff[i]->getAlive())
+		{
+			counter++;
+			cout << "Powerpuff girl " << i+1 << " is alive with " << powerpuff[i]->getHealth() << " remaining" << endl;
+		}
+	}
+	if (counter==0)
+	{
+		cout << "No Powerpuff girl alive.." << endl;
+	}
+	else
+	{
+		cout << counter << " powerpuff girls are alive" << endl;
 	}
 }
