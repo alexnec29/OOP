@@ -127,7 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="blossom.cpp" />
+    <ClCompile Include="bubbles.cpp" />
+    <ClCompile Include="buttercup.cpp" />
     <ClCompile Include="Lab6 Powerpuff.cpp" />
+    <ClCompile Include="mojojojo.cpp" />
+    <ClCompile Include="professor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="blossom.h" />
+    <ClInclude Include="bubbles.h" />
+    <ClInclude Include="buttercup.h" />
+    <ClInclude Include="mojojojo.h" />
+    <ClInclude Include="powerpuff.h" />
+    <ClInclude Include="professor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

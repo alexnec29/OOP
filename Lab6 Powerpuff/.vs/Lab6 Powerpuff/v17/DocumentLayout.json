@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\blossom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\blossom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\bubbles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\bubbles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\bubbles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\bubbles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\buttercup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\buttercup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\buttercup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\buttercup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\Lab6 Powerpuff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\Lab6 Powerpuff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\blossom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\blossom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\powerpuff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B409B316-5089-40C1-9A90-139158623BD5}|Lab6 Powerpuff\\Lab6 Powerpuff.vcxproj|solutionrelative:Lab6 Powerpuff\\powerpuff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bubbles.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\bubbles.cpp",
+              "RelativeDocumentMoniker": "Lab6 Powerpuff\\bubbles.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\bubbles.cpp",
+              "RelativeToolTip": "Lab6 Powerpuff\\bubbles.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T07:30:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "buttercup.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\buttercup.h",
+              "RelativeDocumentMoniker": "Lab6 Powerpuff\\buttercup.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\buttercup.h",
+              "RelativeToolTip": "Lab6 Powerpuff\\buttercup.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T07:29:42.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "blossom.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\blossom.h",
+              "RelativeDocumentMoniker": "Lab6 Powerpuff\\blossom.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\blossom.h",
+              "RelativeToolTip": "Lab6 Powerpuff\\blossom.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T07:26:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "buttercup.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\buttercup.cpp",
+              "RelativeDocumentMoniker": "Lab6 Powerpuff\\buttercup.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\buttercup.cpp",
+              "RelativeToolTip": "Lab6 Powerpuff\\buttercup.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T07:25:40.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bubbles.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\bubbles.h",
+              "RelativeDocumentMoniker": "Lab6 Powerpuff\\bubbles.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\bubbles.h",
+              "RelativeToolTip": "Lab6 Powerpuff\\bubbles.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T07:25:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "powerpuff.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\powerpuff.h",
+              "RelativeDocumentMoniker": "Lab6 Powerpuff\\powerpuff.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\powerpuff.h",
+              "RelativeToolTip": "Lab6 Powerpuff\\powerpuff.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T07:25:13.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "blossom.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\blossom.cpp",
+              "RelativeDocumentMoniker": "Lab6 Powerpuff\\blossom.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\blossom.cpp",
+              "RelativeToolTip": "Lab6 Powerpuff\\blossom.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T07:25:11.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Lab6 Powerpuff.cpp",
               "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\Lab6 Powerpuff.cpp",
               "RelativeDocumentMoniker": "Lab6 Powerpuff\\Lab6 Powerpuff.cpp",
               "ToolTip": "D:\\work\\Programe facute\\OOP\\Lab6 Powerpuff\\Lab6 Powerpuff\\Lab6 Powerpuff.cpp",
               "RelativeToolTip": "Lab6 Powerpuff\\Lab6 Powerpuff.cpp",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAAAPcAAAAYAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-01T17:26:52.218Z",
               "EditorCaption": ""

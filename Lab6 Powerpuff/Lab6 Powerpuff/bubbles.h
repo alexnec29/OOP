@@ -4,14 +4,17 @@
 #include "powerpuff.h"
 
 class Bubbles : public PowerPuff {
+private:
+    int damage;
+    int health;
+    bool alive;
 public:
-    Bubbles()
-    {
-        this->damage = 75;
-        this->health = 300;
-    }
-    int getDamage() const; // Declare as const member function
-    int getHealth() const; // Declare as const member function
+    Bubbles();
+    int getDamage();
+    int getHealth();
+    void damageIt(int damageValue);
+    void setAlive(bool alive);
+    bool getAlive();
 };
 
 #endif

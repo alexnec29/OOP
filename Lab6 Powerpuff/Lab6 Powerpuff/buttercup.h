@@ -3,14 +3,17 @@
 
 #include "powerpuff.h"
 class Buttercup : public PowerPuff {
+private:
+    int damage;
+    int health;
+    bool alive;
 public:
-    Buttercup()
-    {
-        this->damage = 200;
-        this->health = 150;
-    }
-    int getDamage() const; // Declare as const member function
-    int getHealth() const; // Declare as const member function
+    Buttercup();
+    int getDamage();
+    int getHealth();
+    void damageIt(int damageValue);
+    void setAlive(bool alive);
+    bool getAlive();
 };
 
 #endif

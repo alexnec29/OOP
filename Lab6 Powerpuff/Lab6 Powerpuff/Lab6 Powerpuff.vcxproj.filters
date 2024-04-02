@@ -18,5 +18,40 @@
     <ClCompile Include="Lab6 Powerpuff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="blossom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bubbles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="buttercup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mojojojo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="professor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="blossom.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bubbles.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="buttercup.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mojojojo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="powerpuff.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="professor.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
