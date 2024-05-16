@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab8ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3142344B-EADF-4829-B224-7BDC6B496B15}|Lab8ex1\\Lab8ex1.vcxproj|D:\\Lab8ex1\\Lab8ex1\\Lab8ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3142344B-EADF-4829-B224-7BDC6B496B15}|Lab8ex1\\Lab8ex1.vcxproj|solutionrelative:Lab8ex1\\Lab8ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3142344B-EADF-4829-B224-7BDC6B496B15}|Lab8ex1\\Lab8ex1.vcxproj|D:\\Lab8ex1\\Lab8ex1\\fraza.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3142344B-EADF-4829-B224-7BDC6B496B15}|Lab8ex1\\Lab8ex1.vcxproj|solutionrelative:Lab8ex1\\fraza.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fraza.txt",
+              "DocumentMoniker": "D:\\Lab8ex1\\Lab8ex1\\fraza.txt",
+              "RelativeDocumentMoniker": "Lab8ex1\\fraza.txt",
+              "ToolTip": "D:\\Lab8ex1\\Lab8ex1\\fraza.txt",
+              "RelativeToolTip": "Lab8ex1\\fraza.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-13T15:09:36.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab8ex1.cpp",
+              "DocumentMoniker": "D:\\Lab8ex1\\Lab8ex1\\Lab8ex1.cpp",
+              "RelativeDocumentMoniker": "Lab8ex1\\Lab8ex1.cpp",
+              "ToolTip": "D:\\Lab8ex1\\Lab8ex1\\Lab8ex1.cpp",
+              "RelativeToolTip": "Lab8ex1\\Lab8ex1.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T15:06:19.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
