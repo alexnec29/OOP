@@ -1,0 +1,7 @@
+﻿  Database.cpp
+  IntegerData.cpp
+  StringData.cpp
+  Varianta Partial Leon.cpp
+  Generating Code...
+D:\work\Programe facute\OOP\Varianta Partial Leon\Varianta Partial Leon\StringData.h(19,1): warning C4715: 'StringData::Substract': not all control paths return a value
+  Varianta Partial Leon.vcxproj -> D:\work\Programe facute\OOP\Varianta Partial Leon\x64\Debug\Varianta Partial Leon.exe

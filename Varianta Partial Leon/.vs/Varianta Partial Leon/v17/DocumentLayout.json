@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\Entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Varianta Partial Leon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\Varianta Partial Leon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\StringData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\StringData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\StringData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\StringData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\IntegerData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\IntegerData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\IntegerData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A1A3B0-C575-4EC5-B4EE-E1C105F07AF3}|Varianta Partial Leon\\Varianta Partial Leon.vcxproj|solutionrelative:Varianta Partial Leon\\IntegerData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntegerData.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\IntegerData.cpp",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\IntegerData.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\IntegerData.cpp",
+              "RelativeToolTip": "Varianta Partial Leon\\IntegerData.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T15:17:22.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringData.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\StringData.cpp",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\StringData.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\StringData.cpp",
+              "RelativeToolTip": "Varianta Partial Leon\\StringData.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T15:11:22.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Database.cpp",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\Database.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Database.cpp",
+              "RelativeToolTip": "Varianta Partial Leon\\Database.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T15:05:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntegerData.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\IntegerData.h",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\IntegerData.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\IntegerData.h",
+              "RelativeToolTip": "Varianta Partial Leon\\IntegerData.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T15:05:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringData.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\StringData.h",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\StringData.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\StringData.h",
+              "RelativeToolTip": "Varianta Partial Leon\\StringData.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T15:05:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entry.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Entry.h",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\Entry.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Entry.h",
+              "RelativeToolTip": "Varianta Partial Leon\\Entry.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T15:05:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.h",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Database.h",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\Database.h",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Database.h",
+              "RelativeToolTip": "Varianta Partial Leon\\Database.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T15:05:10.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Varianta Partial Leon.cpp",
+              "DocumentMoniker": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Varianta Partial Leon.cpp",
+              "RelativeDocumentMoniker": "Varianta Partial Leon\\Varianta Partial Leon.cpp",
+              "ToolTip": "D:\\work\\Programe facute\\OOP\\Varianta Partial Leon\\Varianta Partial Leon\\Varianta Partial Leon.cpp",
+              "RelativeToolTip": "Varianta Partial Leon\\Varianta Partial Leon.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T15:01:15.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
