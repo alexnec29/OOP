@@ -1,0 +1,8 @@
+﻿  Varianta sesiune 6.cpp
+  Zoo.cpp
+  Generating Code...
+Varianta sesiune 6.obj : error LNK2019: unresolved external symbol "public: class std::vector<class Animal *,class std::allocator<class Animal *> > __cdecl Zoo::GetFishes(void)" (?GetFishes@Zoo@@QEAA?AV?$vector@PEAVAnimal@@V?$allocator@PEAVAnimal@@@std@@@std@@XZ) referenced in function main
+Varianta sesiune 6.obj : error LNK2019: unresolved external symbol "public: class std::vector<class Animal *,class std::allocator<class Animal *> > __cdecl Zoo::GetBirds(void)" (?GetBirds@Zoo@@QEAA?AV?$vector@PEAVAnimal@@V?$allocator@PEAVAnimal@@@std@@@std@@XZ) referenced in function main
+Varianta sesiune 6.obj : error LNK2019: unresolved external symbol "public: class std::vector<class Animal *,class std::allocator<class Animal *> > __cdecl Zoo::GetMammals(void)" (?GetMammals@Zoo@@QEAA?AV?$vector@PEAVAnimal@@V?$allocator@PEAVAnimal@@@std@@@std@@XZ) referenced in function main
+Varianta sesiune 6.obj : error LNK2019: unresolved external symbol "public: class std::vector<class Feline *,class std::allocator<class Feline *> > __cdecl Zoo::GetFelines(void)" (?GetFelines@Zoo@@QEAA?AV?$vector@PEAVFeline@@V?$allocator@PEAVFeline@@@std@@@std@@XZ) referenced in function main
+D:\work\Programe facute\OOP\Varianta sesiune 6\x64\Debug\Varianta sesiune 6.exe : fatal error LNK1120: 4 unresolved externals

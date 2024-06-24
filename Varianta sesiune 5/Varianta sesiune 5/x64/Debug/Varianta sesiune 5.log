@@ -1,0 +1,9 @@
+﻿  angajat.cpp
+  manager.cpp
+  programator.cpp
+  Varianta sesiune 5.cpp
+  Generating Code...
+D:\work\Programe facute\OOP\Varianta sesiune 5\Varianta sesiune 5\programator.cpp(14,1): error C4716: 'Programator::GetCode': must return a value
+D:\work\Programe facute\OOP\Varianta sesiune 5\Varianta sesiune 5\angajat.cpp(15,1): error C4716: 'Angajat::GetSalariu': must return a value
+D:\work\Programe facute\OOP\Varianta sesiune 5\Varianta sesiune 5\angajat.cpp(19,1): error C4716: 'Angajat::SetSalariu': must return a value
+D:\work\Programe facute\OOP\Varianta sesiune 5\Varianta sesiune 5\angajat.cpp(11,1): error C4716: 'Angajat::GetNume': must return a value

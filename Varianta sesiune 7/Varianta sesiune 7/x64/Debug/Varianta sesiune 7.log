@@ -1,0 +1,22 @@
+﻿  MyVector.cpp
+  Varianta sesiune 7.cpp
+D:\work\Programe facute\OOP\Varianta sesiune 7\Varianta sesiune 7\MyVector.h(13,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyVector.cpp')
+  
+D:\work\Programe facute\OOP\Varianta sesiune 7\Varianta sesiune 7\MyVector.h(17,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'MyVector.cpp')
+  
+D:\work\Programe facute\OOP\Varianta sesiune 7\Varianta sesiune 7\MyVector.h(36,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyVector.cpp')
+  
+D:\work\Programe facute\OOP\Varianta sesiune 7\Varianta sesiune 7\MyVector.h(13,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Varianta%20sesiune%207.cpp')
+  
+D:\work\Programe facute\OOP\Varianta sesiune 7\Varianta sesiune 7\MyVector.h(17,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Varianta%20sesiune%207.cpp')
+  
+D:\work\Programe facute\OOP\Varianta sesiune 7\Varianta sesiune 7\MyVector.h(36,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Varianta%20sesiune%207.cpp')
+  
+  Generating Code...
+  Varianta sesiune 7.vcxproj -> D:\work\Programe facute\OOP\Varianta sesiune 7\x64\Debug\Varianta sesiune 7.exe
